@@ -8,4 +8,7 @@ h1,h2{
 body{background-color: rgb(210, 187, 231);}
 
 
-.eduTable{padding: 5px;}
+.centre{
+    color: blue;
+    background-color: burlywood
+}
